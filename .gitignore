@@ -1,0 +1,4 @@
+target/
+target_msvc/
+*.log
+/shot_*.png
